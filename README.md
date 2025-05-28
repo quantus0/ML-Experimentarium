@@ -1,1 +1,1 @@
-# MNIST-Handwritten-Digits
+# Machine Learning Experimentarium
